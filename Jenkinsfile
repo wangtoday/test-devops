@@ -3,7 +3,7 @@ pipeline {
    stages {
       stage('Checkout Code') {
          steps {
-           echo '111 222 333 444 555 666'
+           echo '111 222 333 444 555 666 777'
          }
       }
    }
