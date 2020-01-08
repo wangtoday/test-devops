@@ -3,7 +3,7 @@ pipeline {
    stages {
       stage('Checkout Code') {
          steps {
-           echo 'start '
+           echo 'start2 '
            sleep 30
            echo 'end1 '
          }
