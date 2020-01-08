@@ -4,7 +4,7 @@ pipeline {
       stage('Checkout Code') {
          steps {
            echo 'start '
-           sleep time: 30000, unit: 'NANOSECONDS'
+           sleep 30
            echo 'end '
          }
       }
