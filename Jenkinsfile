@@ -5,7 +5,7 @@ pipeline {
          steps {
            echo 'start '
            sleep 30
-           echo 'end '
+           echo 'end1 '
          }
       }
    }
