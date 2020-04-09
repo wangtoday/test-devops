@@ -8,6 +8,6 @@ pipeline {
            echo 'end '
          }
       }
-   
+ 
    }
 }
